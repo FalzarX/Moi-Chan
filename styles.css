@@ -1,0 +1,88 @@
+#title {
+    text-align: center;
+    background-color: #42C2FF;
+}
+
+h1 {
+    font-size: 5rem;
+    color: white;
+    font-family: 'Sofia', cursive;
+}
+
+h2 {
+    text-align: center;
+}
+
+h3 {
+    font-family: 'Sofia', cursive;
+    color: black;
+}
+
+#small-title {
+    font-family: 'Sofia', cursive;
+    background-color: #3497c5;
+    color: white;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    border-top: 5px solid white;
+    border-bottom: 5px solid white;
+}
+
+.top-images {
+    width: 150px;
+    padding-bottom: 50px;
+    height: 150px;
+}
+
+.bottom-images {
+    width: 150px;
+    padding-bottom: 50px;
+    height: 150px;
+}
+
+.left-pokemon {
+    position: absolute;
+    left: 1.3%;
+    top: 20%;
+}
+
+.right-pokemon {
+    position: absolute;
+    right: 1.3%;
+    top: 20%;
+}
+
+.top-pokemon-container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.story-image {
+    height: 70%;
+    width: 70%;
+}
+
+#slide-shows {
+    background-color: #85F4FF;
+    text-align: center;
+    padding: 5% 10%;
+}
+
+em {
+    font-family: 'Sofia', cursive;
+}
+
+#footer{
+    padding: 2% 15%;
+    text-align: center;
+    background-color: #B8FFF9;
+}
+
+.mini-icons{
+    margin-bottom: 20px
+}
+
+.icon-margins{
+    margin-left: 8px;
+    margin-right: 8px;
+}
